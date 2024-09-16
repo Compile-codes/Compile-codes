@@ -1,4 +1,4 @@
-<img src="https://github.com/Compile-codes/Compile-codes/tree/main/assets/github logo.gif">
+[<img src="https://github.com/Compile-codes/Compile-codes/tree/main/assets/github logo.gif">]
 
 <!--
 **Compile-codes/Compile-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
